@@ -1,0 +1,11 @@
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\bin\Debug\neteaseMusicLrcFetcher.exe
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\bin\Debug\neteaseMusicLrcFetcher.pdb
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\obj\Debug\neteaseMusicLrcFetcher.csprojAssemblyReference.cache
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\obj\Debug\neteaseMusicLrcFetcher.Form1.resources
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\obj\Debug\neteaseMusicLrcFetcher.Properties.Resources.resources
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\obj\Debug\neteaseMusicLrcFetcher.csproj.GenerateResource.cache
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\obj\Debug\neteaseMusicLrcFetcher.csproj.CoreCompileInputs.cache
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\obj\Debug\neteaseMusicLrcFetcher.csproj.CopyComplete
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\obj\Debug\neteaseMusicLrcFetcher.exe
+C:\Users\recker\source\repos\neteaseMusicLrcFetcher\neteaseMusicLrcFetcher\obj\Debug\neteaseMusicLrcFetcher.pdb
